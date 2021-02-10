@@ -1,0 +1,5 @@
+{
+  "problem_set": [
+{"vars": [56441, 58084, 11535], "operator": ["+", "+", "--------"], "result": 57, "numTries": 0, "numCorrect": 0, "numWrong": 0, "tryAgain": "True"},{"vars": [56175, 25357, 81929], "operator": ["+", "+", "--------"], "result": 57, "numTries": 0, "numCorrect": 0, "numWrong": 0, "tryAgain": "True"},{"vars": [40226, 48277, 12174], "operator": ["+", "+", "--------"], "result": 57, "numTries": 0, "numCorrect": 0, "numWrong": 0, "tryAgain": "True"},{"vars": [99754, 76100, 38035], "operator": ["+", "+", "--------"], "result": 57, "numTries": 0, "numCorrect": 0, "numWrong": 0, "tryAgain": "True"},{"vars": [10857, 42240, 32571], "operator": ["+", "+", "--------"], "result": 57, "numTries": 0, "numCorrect": 0, "numWrong": 0, "tryAgain": "True"}
+  ]
+}
